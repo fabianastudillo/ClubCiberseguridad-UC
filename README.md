@@ -1,7 +1,8 @@
 <<<<<<< HEAD
 # Website
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator. 
+La página web del Club de Ciberseguridad de la Universidad de Cuenca es https://fabianastudillo.github.io/ClubCiberseguridad-UC/
 
 ### Installation
 
