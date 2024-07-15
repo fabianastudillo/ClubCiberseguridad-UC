@@ -9,7 +9,7 @@ const FeatureList = [
     description: (
       <>
         ¡Inscríbete ahora y sé parte del cambio!
-        [Formulario de inscripción](https://forms.gle/wEHwUCtbAW1DXBaJA)
+        <a href="https://forms.gle/wEHwUCtbAW1DXBaJA">Formulario de inscripción</a>
       </>
     ),
   },
