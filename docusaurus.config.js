@@ -66,9 +66,9 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'CCS-UC',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'CCS-UC Logo',
           src: 'img/logo.svg',
         },
         items: [
@@ -129,7 +129,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Universidad de Cuenca, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
