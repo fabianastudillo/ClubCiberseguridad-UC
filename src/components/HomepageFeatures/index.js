@@ -8,7 +8,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        ¡Inscríbete ahora y sé parte del cambio!
+        ¡Inscríbete ahora y sé parte del cambio!<br/>
         <a href="https://forms.gle/wEHwUCtbAW1DXBaJA">Formulario de inscripción</a>
       </>
     ),
