@@ -2,7 +2,9 @@
 sidebar_position: 1
 ---
 
-# Antecedentes:
+# Sobre el club
+
+## Antecedentes
 
 La ciberseguridad es un campo de vital importancia en la era digital actual, donde la protección de la información y los sistemas es crucial para el funcionamiento seguro de las sociedades y las economías. En este contexto, la Universidad de Cuenca reconoce la necesidad de preparar a sus estudiantes para enfrentar los desafíos del mundo digital, proporcionando un espacio de aprendizaje y práctica en ciberseguridad.
 
@@ -18,9 +20,13 @@ Antes de la propuesta formal para la creación del Club de Ciberseguridad, se ll
 
 En la Universidad de Cuenca, en la Facultad de Ingeniería, se procede a la conformación del Club de Ciberseguridad, con el objetivo de promover el interés y desarrollo de habilidades en el campo de la ciberseguridad entre estudiantes, docentes y profesionales.
 
-# Participantes
+## Participantes
 
 Los miembros del club lo conforman cualquier persona interesada en la Ciberseguridad: estudiante, docente o profesional. El listado de miembros del club no se hará público si en consentimiento expreso del participante.
 
-# Eventos
+## Directiva
+
+
+
+## Eventos
 
