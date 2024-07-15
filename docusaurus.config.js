@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Club de Ciberseguridad de la UCuenca',
-  tagline: 'Club de Ciberseguridad de la UCuenca',
+  tagline: 'Prepárate para el futuro digital uniéndote a nuestro club. Desarrolla habilidades clave en ciberseguridad, participa en proyectos innovadores, y forma parte de una red de estudiantes, docentes y profesionales apasionados por proteger la información y mejorar la seguridad informática en nuestra comunidad.',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
